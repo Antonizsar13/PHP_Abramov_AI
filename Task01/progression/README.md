@@ -60,6 +60,12 @@ php bin/progression
 ```
 
 ---
+
+## Требования
+- [ссылка на packagist](https://packagist.org/packages/antonizsar13/progression)
+- [ссылка на Git](https://github.com/Antonizsar13/progression-game)
+
+
 ## Требования
 - PHP 8.0+
 - Composer
